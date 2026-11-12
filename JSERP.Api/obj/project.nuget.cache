@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qVe9NGo0Bog=",
+  "success": true,
+  "projectFilePath": "/home/thilina/Development/JSERP/JSERP.Api/JSERP.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/thilina/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/home/thilina/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
